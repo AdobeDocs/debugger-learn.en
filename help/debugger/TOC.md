@@ -6,7 +6,7 @@ audience: end-user
 
 # Adobe Experience Platform Debugger Tutorials {#tutorials}
 
-+ [Overview](../overview.md)
++ [Overview](overview.md)
 + Experience Platform Debugger{#experience-platform-debugger}
   + [Introduction to the Platform Debugger](/help/debugger/platform-debugger/use-the-experience-cloud-debugger.md)
   + [Debug a Launch Implementation](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-launch/debug-launch-implementation.html)
