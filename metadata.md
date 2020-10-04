@@ -1,6 +1,7 @@
 ---
-cloud: experience-platform
-product: adobe experience platform debugger
+cloud: experience platform
+product: debugger
+solution: SDKs and Validation Tools
 solution-title: Documentation
 solution-hub-url: https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html
 getting-started-title: Experience League

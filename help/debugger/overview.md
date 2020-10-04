@@ -1,9 +1,9 @@
 ---
-title: Adobe Experience Platform Debugger
+title: Adobe Experience Platform Debugger Tutorials
 description: A collection of how-to videos and tutorials to make you a power-user of Adobe Experience Platform and Cloud Debuggers
 ---
 
-# Adobe Experience Platform Debugger
+# Adobe Experience Platform Debugger Tutorials
 
 ## What's New
 
