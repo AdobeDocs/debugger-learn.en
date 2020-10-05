@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Experience Platform Debugger Tutorials
-user-guide-description: These tutorials show you how to use the Experience Platform and Experience Cloud Debuggers to verify your web implementation of Adobe applications.
+user-guide-description: Verify your web implementation of Adobe applications.
 audience: end-user
 ---
 
