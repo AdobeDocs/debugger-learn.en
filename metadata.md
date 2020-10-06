@@ -7,7 +7,7 @@ solution-hub-url: https://docs.adobe.com/content/help/en/debugger/using-v2/exper
 getting-started-title: Experience League
 getting-started-url: https://experienceleague.adobe.com/#recommended/solutions/experience-platform
 tutorials-title: Tutorials
-tutorials-url: /content/help/en/debugger-learn/tutorials/overview.html
+tutorials-url: https://docs.adobe.com/content/help/en/debugger-learn/tutorials/overview.html
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/debugger-learn.en
 index: yes

@@ -1,5 +1,6 @@
 ---
 user-guide-title: Adobe Experience Platform Debugger Tutorials
+breadcrumb-title: Debugger Tutorials
 user-guide-description: Verify your web implementation of Adobe applications.
 audience: end-user
 ---
