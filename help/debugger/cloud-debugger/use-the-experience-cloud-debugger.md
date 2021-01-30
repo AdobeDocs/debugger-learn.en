@@ -12,4 +12,4 @@ The Adobe Experience Cloud Debugger can help you understand and troubleshoot you
 ## Additional Resources
 
 * [Download the Adobe Experience Cloud Debugger extension from the Chrome store](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* [Documentation](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/)
+* [Documentation](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html)

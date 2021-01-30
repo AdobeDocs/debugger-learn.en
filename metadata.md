@@ -1,14 +1,15 @@
 ---
 cloud: experience platform
 product: debugger
-solution: Experience Platform
+solution: Data Collection, Experience Platform
+role: Developer, Data Engineer, Business User
 type: Tutorial
 solution-title: Documentation
-solution-hub-url: https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html
+solution-hub-url: https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html
 getting-started-title: Experience League
 getting-started-url: https://experienceleague.adobe.com/#recommended/solutions/experience-platform
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/debugger-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/debugger-learn/tutorials/overview.html
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/debugger-learn.en
 index: yes

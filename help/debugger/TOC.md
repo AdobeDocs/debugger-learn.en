@@ -14,5 +14,5 @@ audience: end-user
 + Experience Cloud Debugger{#experience-cloud-debugger}
   + [Add the Debugger](/help/debugger/cloud-debugger/add-the-extension.md)
   + [Use the Debugger](/help/debugger/cloud-debugger/use-the-experience-cloud-debugger.md)
-  + [Troubleshoot Target](https://docs.adobe.com/content/help/en/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html)
-  + [Switch Launch Environments](https://docs.adobe.com/content/help/en/launch-learn/implementing-in-websites-with-launch/configure-launch/launch-switch-environments.html)
+  + [Troubleshoot Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html)
+  + [Switch Launch Environments](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/configure-launch/launch-switch-environments.html)
