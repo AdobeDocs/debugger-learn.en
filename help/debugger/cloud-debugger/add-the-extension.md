@@ -1,6 +1,7 @@
 ---
 title: Add the Experience Cloud Debugger Extension
 description: The Adobe Experience Cloud Debugger is an extension for the Chrome browser to help you understand and troubleshoot your implementations. Learn how to add it to your browser.
+original-url: https://experienceleague.adobe.com/docs/core-services-learn/tutorials/debugger/add-the-extension.html
 ---
 
 # Add the Experience Cloud Debugger Extension
