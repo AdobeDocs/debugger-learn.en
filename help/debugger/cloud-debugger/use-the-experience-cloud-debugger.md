@@ -3,8 +3,8 @@ title: How to Use the Adobe Experience Cloud Debugger
 description: The Adobe Experience Cloud Debugger can help you understand and troubleshoot your implementations. It's optimized to show you exactly what Adobe solutions are implemented and what calls they’re making--specifically to Analytics, Target, Audience Manager, Ad Cloud, Launch, Dynamic Tag Management, and the Adobe Experience Platform Identity Service
 landing-page-description: Learn to use the Experience Cloud Debugger to troubleshoot your implementations. Understand what Adobe solutions are implemented and what calls they’re making.
 original-url: https://experienceleague.adobe.com/docs/core-services-learn/tutorials/debugger/use-the-experience-cloud-debugger.html
+exl-id: 84b6e33f-ea60-4f3d-a2d3-ca5b49e3ec1c
 ---
-
 # How to Use the Adobe Experience Cloud Debugger
 
 The Adobe Experience Cloud Debugger can help you understand and troubleshoot your implementations. It's optimized to show you exactly what Adobe solutions are implemented and what calls they’re making&mdash;specifically to Analytics, Target, Audience Manager, Ad Cloud, Launch, Dynamic Tag Management, and the Identity Service
