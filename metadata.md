@@ -2,7 +2,7 @@
 cloud: experience platform
 product: debugger
 solution: Data Collection, Experience Platform
-role: Developer, Data Engineer, Business User
+role: Developer, Data Engineer, Business Practitioner
 type: Tutorial
 solution-title: Documentation
 solution-hub-url: https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html
