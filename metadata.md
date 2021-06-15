@@ -1,7 +1,7 @@
 ---
 cloud: experience platform
 product: debugger
-solution: Data Collection, Experience Platform
+solution: Experience Platform, Data Collection, Debugger
 role: Developer, Data Engineer, Business Practitioner
 type: Tutorial
 solution-title: Documentation
